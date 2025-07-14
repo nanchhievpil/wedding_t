@@ -13,10 +13,12 @@ html {
 
 .font-esthetic {
     font-family: 'Sacramento', cursive !important;
+    font-family: 'Khmer OS System'; 
 }
 
 .font-arabic {
     font-family: 'Noto Naskh Arabic', serif !important;
+    font-family: 'Khmer OS System'; 
 }
 
 .img-center-crop {
